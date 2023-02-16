@@ -18,4 +18,4 @@
 
 [twitter]: 
 [instagram]: 
-[linkedin]: www.linkedin.com/in/dameoncrockett
+[linkedin]: https://linkedin.com/in/dameoncrockett
